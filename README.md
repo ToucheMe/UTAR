@@ -1,2 +1,2 @@
-# UTAR
-- This is the repository for the source codes for most of my assignments done during my years in UTAR.
+# UTAR (CS)
+- This repository contains the source codes for the most of my assignments during university.
